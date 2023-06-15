@@ -1,2 +1,2 @@
 #!/bin/bash
-CFILE="$processor.c"; OUTPUT_FILE="c"; cpp -P "$CFILE" -o "$OUTPUT_FILE"
+CFILE="$main.c"; OUTPUT_FILE="c"; cpp -P "$CFILE" -o "$OUTPUT_FILE"
