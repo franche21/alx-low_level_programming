@@ -1,9 +1,10 @@
 #include "main.h"
-	/**
-	 * main - print _putchar
-	 * is written by frances
-	 * Return: 0
-	 */
+
+/**
+ * main - print _putchar
+ * is written by frances
+ * Return: 0
+ */
 
 
 	int main(void)
